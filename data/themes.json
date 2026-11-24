@@ -1,0 +1,25 @@
+{
+  "themes": [
+    {
+      "name": "Finanzas personales",
+      "description": "Dinero, inversión y libertad financiera.",
+      "color": "#d9a441",
+      "icon": "💰",
+      "image": ""
+    },
+    {
+      "name": "Hábitos y desarrollo personal",
+      "description": "Hábitos, productividad y crecimiento.",
+      "color": "#e85d75",
+      "icon": "🌱",
+      "image": ""
+    },
+    {
+      "name": "Novela negra y Thriller",
+      "description": "Misterio, crimen y suspense.",
+      "color": "#4f8fe6",
+      "icon": "🕵️",
+      "image": ""
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>¿De qué va este libro?</title>
+  <meta name="description" content="Resúmenes en vídeo de libros por temáticas: sinopsis, vídeo y dónde comprarlos.">
+  <meta name="theme-color" content="#0f1424">
+  <meta property="og:title" content="¿De qué va este libro?">
+  <meta property="og:description" content="Resúmenes en vídeo de libros por temáticas: sinopsis, vídeo y dónde comprarlos.">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="/assets/site.css">
+</head>
+<body data-bg="blobs" data-tstyle="gradient" data-tsize="big" data-density="normal" data-hero="center">
+  <div id="pv-banner" hidden>👁 Vista previa (sin publicar) · <a href="/">ver la web real</a></div>
+  <div class="wrap">
+    <header class="hero">
+      <span class="eyebrow" id="t-eyebrow"></span>
+      <h1 id="t-title"></h1>
+      <p class="lead" id="t-lead"></p>
+      <div class="social" id="social"></div>
+      <div class="search-wrap"><input id="search" type="search" placeholder="Buscar libro o autor…" autocomplete="off" aria-label="Buscar"></div>
+    </header>
+    <main id="view"></main>
+  </div>
+  <dialog id="modal" class="modal"><button class="close" data-close aria-label="Cerrar">&times;</button><div id="modal-body"></div></dialog>
+  <footer class="footer">© <span id="year"></span> · ¿De qué va este libro?</footer>
+  <script src="/assets/core.js"></script>
+  <script src="/assets/app.js"></script>
+</body>
+</html>

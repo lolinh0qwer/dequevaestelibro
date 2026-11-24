@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="robots" content="noindex">
+  <meta name="theme-color" content="#ffffff">
+  <title>Panel · ¿De qué va este libro?</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@700&family=Playfair+Display:wght@700&family=DM+Serif+Display&family=Abril+Fatface&family=Space+Grotesk:wght@600&family=Bricolage+Grotesque:wght@700&family=Syne:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/admin/admin.css">
+</head>
+<body>
+  <div id="loading" class="l-wrap"><p>Cargando…</p></div>
+
+  <div id="login" hidden>
+    <div class="l-card">
+      <div class="l-logo">📚</div>
+      <h1>Panel de edición</h1>
+      <p>¿De qué va este libro?</p>
+      <a class="e-btn pri big" href="/api/auth">Entrar con GitHub</a>
+      <p class="l-err" id="lerr"></p>
+    </div>
+  </div>
+
+  <div id="editor" hidden>
+    <div class="ed-top">
+      <div class="ed-head">
+        <h1>📚 Panel</h1>
+        <div class="ed-tools">
+          <a class="e-btn" href="/?preview=1" target="_blank" rel="noopener">👁 Vista previa</a>
+          <button class="e-btn ok" id="publish"></button>
+        </div>
+      </div>
+      <div class="ed-tabs">
+        <button data-tab="books">Libros</button>
+        <button data-tab="themes">Temáticas</button>
+        <button data-tab="settings">Ajustes</button>
+        <button data-tab="look">Estética</button>
+      </div>
+    </div>
+    <div class="ed-body">
+      <div id="ed-body"></div>
+      <p class="ed-foot-links"><a href="/" target="_blank" rel="noopener">Abrir la web</a> · <button id="logout">Cerrar sesión</button></p>
+    </div>
+  </div>
+
+  <dialog id="e-modal" class="e-modal"></dialog>
+  <div id="toast"></div>
+
+  <script src="/assets/core.js"></script>
+  <script src="/admin/admin.js"></script>
+</body>
+</html>

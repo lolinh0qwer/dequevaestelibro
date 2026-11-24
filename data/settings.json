@@ -1,0 +1,25 @@
+{
+  "eyebrow": "📚 Libros de mis vídeos",
+  "title": "¿De qué va *este libro*?",
+  "lead": "Elige una temática, abre un libro y mira mi resumen en vídeo.",
+  "youtube": "",
+  "instagram": "",
+  "tiktok": "",
+  "facebook": "",
+  "x": "",
+  "web": "",
+  "maxFeatured": 5,
+  "newDays": 15,
+  "latestCount": 8,
+  "look": {
+    "palette": "noche",
+    "accent": "",
+    "font": "elegante",
+    "bg": "blobs",
+    "tstyle": "gradient",
+    "tsize": "big",
+    "density": "normal",
+    "radius": 12,
+    "hero": "center"
+  }
+}

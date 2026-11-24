@@ -1,0 +1,60 @@
+{
+  "books": [
+    {
+      "title": "Padre Rico, padre Pobre",
+      "author": "Robert T. Kiyosaki",
+      "year": "",
+      "date": "2026-11-23",
+      "featured": true,
+      "featuredLabel": "Recomendado",
+      "theme": "Finanzas personales",
+      "isbn": "",
+      "cover": "",
+      "synopsis": "",
+      "youtube": "",
+      "amazon": ""
+    },
+    {
+      "title": "Vendes o vendes: Cómo salirte con la tuya en los negocios y en la vida",
+      "author": "Grant Cardone",
+      "year": "",
+      "date": "2026-11-23",
+      "featured": false,
+      "featuredLabel": "",
+      "theme": "Finanzas personales",
+      "isbn": "",
+      "cover": "",
+      "synopsis": "",
+      "youtube": "",
+      "amazon": ""
+    },
+    {
+      "title": "Hábitos atómicos: Cambios pequeños, resultados extraordinarios",
+      "author": "James Clear",
+      "year": "",
+      "date": "2026-11-23",
+      "featured": false,
+      "featuredLabel": "",
+      "theme": "Hábitos y desarrollo personal",
+      "isbn": "",
+      "cover": "",
+      "synopsis": "",
+      "youtube": "",
+      "amazon": ""
+    },
+    {
+      "title": "La paciente silenciosa",
+      "author": "Alex Michaelides",
+      "year": "",
+      "date": "2026-11-23",
+      "featured": false,
+      "featuredLabel": "",
+      "theme": "Novela negra y Thriller",
+      "isbn": "",
+      "cover": "",
+      "synopsis": "",
+      "youtube": "",
+      "amazon": ""
+    }
+  ]
+}
