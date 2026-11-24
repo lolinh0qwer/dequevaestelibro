@@ -3,58 +3,58 @@
     {
       "title": "Padre Rico, padre Pobre",
       "author": "Robert T. Kiyosaki",
-      "year": "",
-      "date": "2026-11-23",
+      "year": "2024",
+      "date": "2026-11-19",
       "featured": true,
       "featuredLabel": "Recomendado",
       "theme": "Finanzas personales",
       "isbn": "",
-      "cover": "",
-      "synopsis": "",
-      "youtube": "",
-      "amazon": ""
+      "cover": "/images/mwuho64e6xpd-padre-rico-padre-pobre.jpg",
+      "synopsis": "Robert T. Kiyosaki explica la importancia de la educación financiera, la inversión y la gestión del dinero. Un libro que desafía las creencias tradicionales sobre la riqueza y enseña a hacer que el dinero trabaje para ti.",
+      "youtube": "https://youtube.com/shorts/a8wKPRD7CYw?feature=share",
+      "amazon": "https://link.amazon/B0dOmRKQo"
     },
     {
       "title": "Vendes o vendes: Cómo salirte con la tuya en los negocios y en la vida",
       "author": "Grant Cardone",
-      "year": "",
-      "date": "2026-11-23",
+      "year": "2023",
+      "date": "2026-11-18",
       "featured": false,
       "featuredLabel": "",
       "theme": "Finanzas personales",
       "isbn": "",
-      "cover": "",
-      "synopsis": "",
-      "youtube": "",
-      "amazon": ""
+      "cover": "/images/mwuho64el4il-vendes-o-vendes-como-salirte-con-la-tuya.jpg",
+      "synopsis": "Grant Cardone explica cómo dominar el arte de vender para alcanzar el éxito profesional y personal. Un libro que ofrece estrategias prácticas para mejorar la persuasión, ganar confianza y convertir cada oportunidad en un resultado positivo.",
+      "youtube": "https://youtube.com/shorts/QBzJxsKWwIo?feature=share",
+      "amazon": "https://link.amazon/B0iRn7XVA"
     },
     {
       "title": "Hábitos atómicos: Cambios pequeños, resultados extraordinarios",
       "author": "James Clear",
-      "year": "",
-      "date": "2026-11-23",
-      "featured": false,
+      "year": "2020",
+      "date": "2026-11-16",
+      "featured": true,
       "featuredLabel": "",
       "theme": "Hábitos y desarrollo personal",
       "isbn": "",
-      "cover": "",
-      "synopsis": "",
-      "youtube": "",
-      "amazon": ""
+      "cover": "/images/mwuho64fmmaf-habitos-atomicos-cambios-pequenos-result.jpg",
+      "synopsis": "James Clear explica cómo pequeños cambios diarios pueden transformar nuestra vida. A través de estrategias prácticas y sencillas, enseña a construir buenos hábitos, eliminar los malos y conseguir resultados extraordinarios mediante la constancia.",
+      "youtube": "https://youtube.com/shorts/CF0pURVDHL0?feature=share",
+      "amazon": "https://link.amazon/B07stYNnb"
     },
     {
       "title": "La paciente silenciosa",
       "author": "Alex Michaelides",
-      "year": "",
+      "year": "2022",
       "date": "2026-11-23",
       "featured": false,
       "featuredLabel": "",
       "theme": "Novela negra y Thriller",
       "isbn": "",
-      "cover": "",
-      "synopsis": "",
-      "youtube": "",
-      "amazon": ""
+      "cover": "/images/mwuho64fv4rr-la-paciente-silenciosa.jpg",
+      "synopsis": "Alicia Berenson, una reconocida pintora, dispara cinco veces a su marido y nunca vuelve a pronunciar una palabra. Un psicoterapeuta obsesionado con su caso intentará descubrir la verdad. Un thriller psicológico lleno de misterio, secretos y giros inesperados.",
+      "youtube": "https://youtube.com/shorts/G3qUVurgM6M?feature=share",
+      "amazon": "https://link.amazon/B04SHPhUP"
     }
   ]
 }

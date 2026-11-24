@@ -5,21 +5,21 @@
       "description": "Dinero, inversión y libertad financiera.",
       "color": "#d9a441",
       "icon": "💰",
-      "image": ""
+      "image": "/images/mwuho64fonfy-tema-finanzas-personales.jpg"
     },
     {
       "name": "Hábitos y desarrollo personal",
       "description": "Hábitos, productividad y crecimiento.",
       "color": "#e85d75",
       "icon": "🌱",
-      "image": ""
+      "image": "/images/mwuho64fgy3e-tema-habitos-y-desarrollo-personal.jpg"
     },
     {
       "name": "Novela negra y Thriller",
       "description": "Misterio, crimen y suspense.",
       "color": "#4f8fe6",
       "icon": "🕵️",
-      "image": ""
+      "image": "/images/mwuho64fzsc4-tema-novela-negra-y-thriller.jpg"
     }
   ]
 }
