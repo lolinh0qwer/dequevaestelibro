@@ -20,6 +20,13 @@
       "color": "#4f8fe6",
       "icon": "🕵️",
       "image": "/images/mwuho64fzsc4-tema-novela-negra-y-thriller.jpg"
+    },
+    {
+      "name": "Novelas contemporáneas, históricas y familiares",
+      "description": "",
+      "color": "#3dbb8a",
+      "icon": "📚",
+      "image": ""
     }
   ]
 }
